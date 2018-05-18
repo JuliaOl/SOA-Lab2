@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\bin\WcfService2.dll.config
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\bin\WcfService2.dll
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\bin\WcfService2.pdb
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\obj\Debug\WcfService2.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\julia\source\repos\SpaceYDTO\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\julia\source\repos\WcfService2\bin\WcfService2.dll.config
+C:\Users\julia\source\repos\WcfService2\bin\WcfService2.dll
+C:\Users\julia\source\repos\WcfService2\bin\WcfService2.pdb
+C:\Users\julia\source\repos\WcfService2\obj\Debug\WcfService2.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\julia\source\repos\WcfService2\obj\Debug\WcfService2.pdb
